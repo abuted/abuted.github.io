@@ -13,7 +13,7 @@ labels:
 summary: "MARS is a program that allows users to help marine wildlife in distress."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/mars_bg.png">
 
 For sightings, users fill out a form with information on the animal, its environment, and photos. Allows you to report sightings of marine wildlife in distress, sends your location to HMAR, and allows you to send images and information to help the animal.
 
