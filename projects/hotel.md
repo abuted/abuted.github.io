@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/mars_logo.png
+image: img/hotel_logo.png
 title: "Hotel Management System"
 date: 2023-12-01
 published: true
@@ -11,7 +11,7 @@ labels:
 summary: "This program is a hotel management system that collects rooms and customer information."
 ---
 
-<img class="img-fluid" src="../img/mars_bg.png">
+<img class="img-fluid" src="../img/hotel_bg.png">
 
 This program is a hotel management system designed to handle tasks like booking rooms, checking in and out customers, and keeping track of room availability. It allows hotel staff to add and manage room information, associate customers with rooms, and calculate payments based on the length of stay. 
 The system can also search for available rooms, find customer details, and generate reports on current guests. Overall, it streamlines the management of hotel operations, making it easier to organize bookings and ensure efficient customer service.
