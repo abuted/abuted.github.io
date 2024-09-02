@@ -7,6 +7,8 @@ date: 2021-10-23
 published: true
 labels:
   - Python
+  - HTML
+  - CSS
   - GitHub
 summary: "MARS is a program that allows users to help marine wildlife in distress."
 ---
