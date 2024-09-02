@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/mars_logo.png
+image: img/media_logo.png
 title: "Social Media Networks"
 date: 2024-08-04
 published: true
@@ -10,7 +10,7 @@ labels:
 summary: "This program is designed for analyzing and visualizing social media data, focusing on users, their posts, and interactions."
 ---
 
-<img class="img-fluid" src="../img/mars_bg.png">
+<img class="img-fluid" src="../img/media_bg.png">
 
 It structures the data into a graph, where users and posts are nodes, and interactions like comments, views, and references are edges.
 The program highlights important posts and users, identifies trending posts, filters content based on keywords and user attributes, and generates word clouds to visually represent word frequency in the filtered content. The goal is to help users extract insights, understand engagement patterns, and visually analyze the most relevant content from the data.
