@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/mars_logo.png
 title: "MARS"
 date: 2021-10-23
 published: true
