@@ -10,8 +10,7 @@
     "location": { "address": "", "postalCode": "96786", "city": "Wahiawa", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "abuted", "url": "http://github.com/abuted" },
-      { "network": "linkedin", "username": "Alexis Karl Buted", "url": "http://linkedin.com/in/alexis-karl-buted" },
-      { "network": "email", "username": "Alexis Karl Buted", "url": "akbuted@hawaii.edu" }
+      { "network": "linkedin", "username": "Alexis Karl Buted", "url": "http://linkedin.com/in/alexis-karl-buted" }
 
     ]
   },
