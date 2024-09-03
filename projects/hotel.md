@@ -18,38 +18,18 @@ The system can also search for available rooms, find customer details, and gener
 <hr>
 
 <pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+What is the Hotel Management System?
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
+This Hotel management System program is designed to manage a hotel's room bookings and customer information. It allows hotel staff to add rooms, check in customers, and check out customers. The program tracks available rooms and can search for specific rooms or customers. It provides a summary report of all customers currently checked in. The system handles room management, including adding and deleting rooms. It also manages customer details during check-in and check-out, calculating payments based on room rates and the length of stay. Users interact with the system through a menu-driven interface. The system helps streamline hotel operations by keeping track of both room and customer information.
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
+What was my role?
 
-pickup candle
-- you are now carrying the candle -
+In the process of making this program, I developed a hotel management system in C++ with my teammates. I was involved in designing and implementing features to manage room bookings and customer details. I coded some functionalities for adding and deleting rooms, checking in and checking out customers, and tracking available rooms. I also helped to create a user interface to interact with the system through a menu. My responsibilities included ensuring the system calculates payments accurately and generates customer reports. I also tested the program to ensure it worked correctly and made improvements as needed. My work helped streamline hotel operations by organizing and managing room and customer information.
 
-pickup match
-- you are now carrying the match -
+What did I learn?
 
-light match candle
+In developing the hotel management system, I learned key concepts of object-oriented programming (OOP), including how to use classes, inheritance, and encapsulation to manage room and customer data. I gained experience in handling and manipulating information by implementing functionalities to add, update, and delete records. Designing a menu-driven interface taught me how to create user interactions within the program. I also developed skills in functional programming by coding specific tasks like checking in customers, calculating payments, and generating reports. Error handling became crucial as I managed user inputs and addressed potential issues. Implementing algorithms for searching, sorting, and managing data helped me understand how to efficiently organize information. Finally, I learned that working in a group can help me get the program done faster and it allows peer inputs to be put to good use.
 
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
 </pre>
 
 <hr>
