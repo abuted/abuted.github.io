@@ -34,4 +34,4 @@ In developing the hotel management system, I learned key concepts of object-orie
 
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://github.com/university-of-hawaii-ics212/final-week16-group-7.git"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
