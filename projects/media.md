@@ -17,40 +17,20 @@ The program highlights important posts and users, identifies trending posts, fil
 <hr>
 
 <pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+What is the Social Media Networks?
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
+The Social Media Networks program organizes and analyzes social media data by constructing a graph to model relationships between users and posts. It starts by building a graph structure where nodes represent users and posts, and edges depict interactions like authorship, commenting, and viewing. The graph is enhanced by adding relationships between posts that quote or refer to each other. It then identifies important posts based on view counts, notable users based on engagement metrics, and trending posts by combining comments and views into a score. Filtered posts are analyzed to generate a word cloud that visually represents word frequency based on specific criteria. The final results include a summary of the top posts, interesting users, and trending content, providing insights into the most significant interactions and trends in the data.
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
+What was my role?
 
-pickup candle
-- you are now carrying the candle -
+In this project, I played a crucial role in developing and implementing a system for analyzing and visualizing social media data. I started by creating a graph structure to model relationships between users and posts, with nodes representing users and posts and edges illustrating interactions like authorship, commenting, and viewing. I enhanced the graph by adding edges to capture quoting and referring interactions between posts. My analyses identified important posts based on view counts, notable users through engagement metrics, and trending posts by combining comments and views into a score. I also filtered posts according to specific criteria and generated a word cloud to visually represent word frequency. Finally, I summarized key insights, presenting the top posts, interesting users, and trending content to provide a comprehensive overview of the data. 
 
-pickup match
-- you are now carrying the match -
+What did I learn?
 
-light match candle
+From this project, I learned how to model social media interactions by creating a graph structure that represents relationships between users and posts, including interactions like authorship, commenting, and viewing. I discovered how to enhance the graph by adding edges to capture complex relationships between posts, such as quoting and referring. I gained experience in performing data analysis to identify key posts, notable users, and trending content by examining metrics such as view counts, engagement, and a combined score of comments and views. I also learned to filter and process data based on specific criteria, such as keywords and user attributes, and to generate visual representations like word clouds to illustrate word frequency. The project taught me how to use data visualization techniques to summarize and present key insights, making it easier to understand trends and significant content. 
 
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
 </pre>
 
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://docs.google.com/document/d/17uw6wwVQyCtrL5pd-RPUlZp86b5CDznk7jZeqLHPEas/edit?usp=sharing"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
