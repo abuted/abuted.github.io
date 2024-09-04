@@ -6,7 +6,8 @@ title: "Mastering TypeScript"
 date: 2024-09-03
 published: true
 labels:
-  - Computer Science
+  - JavaScript
+  - TypeScript
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/ts_logo.png">
