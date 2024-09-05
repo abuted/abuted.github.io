@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Mastering TypeScript"
+title: "Mastering TypeScript: My Journey"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-03
 published: true
@@ -11,8 +11,6 @@ labels:
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/ts_logo.png">
-
-Mastering TypeScript: My Journey
 
 ## Introduction
 
