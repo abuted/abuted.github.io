@@ -92,6 +92,12 @@
   ],
   "awards": [
     {
+      "title": "Dean's List",
+      "date": "2023",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Earned a semester grade point average of 3.5 or higher based on 12 credits or more taken for a grade, and have not receive grades of W, I, F, or NC for that semester."
+    },
+    {
       "title": "Valedictorian",
       "date": "2022",
       "awarder": "Mililani High School",
