@@ -25,6 +25,14 @@ One of the most valuable parts of learning TypeScript has been how it has helped
 
 Compared to other languages, TypeScript feels like a mix of JavaScript’s simplicity and C++’s structure. It reminds me of when I first learned C++, where you have to think carefully about data types and memory management. However, unlike C++, TypeScript doesn’t require as much manual work, making it easier to use.
 
+// JavaScript
+let name = "John Doe"; // No type annotation
+name = 6; // No error, dynamic typing
+
+// TypeScript
+let name: string = "John Doe"; // Type annotation
+name = 6; // Error: Type 'number' is not assignable to type 'string'
+
 ## From A Software Engineering Perspective
 
 From a software engineering perspective, I can see why TypeScript is becoming used more. It encourages better coding practices by making you think about data types and how they work together in your application. This leads to code that’s easier to maintain and less likely to have errors, which is important in larger projects. However, I also see that TypeScript can add some extra work, especially when it comes to writing and keeping up with type definitions. 
