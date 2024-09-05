@@ -34,6 +34,6 @@ From a software engineering perspective, I can see why TypeScript is becoming us
 As for athletic software engineering, the practice WODs have been really helpful for me. At first, the idea of timed exercises was a bit scary because I’m not used to coding under time pressure, so it felt stressful. But after doing a few WODs, I started to see the importance of them. They push you to think fast and apply what you’ve learned in a high-pressure environment, which is a useful skill, especially when facing real-world coding problems.
 The WODs have helped me improve not just my speed in coding but also my ability to think quickly and solve problems under pressure. This is a different way of learning than I’m used to, but I find it helpful. While this style of learning can be intense, I think it goes well with more traditional methods by adding some real-world pressure.
 
-## Conclusion
+## Looking Ahead
 
 Overall, I believe TypeScript is a strong programming language, especially for larger and more complex projects where keeping code well-organized and error-free is important. The WODs have been a helpful tool in reinforcing what I’ve learned and pushing me to get better. While this way of learning may not suit everyone, I believe it will work for me as I continue to improve my skills in TypeScript and other programming languages.
