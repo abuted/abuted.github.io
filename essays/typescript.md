@@ -23,7 +23,7 @@ One of the most valuable parts of learning TypeScript has been how it has helped
 
 ## TypeScript Compared To Other Languages
 
-Compared to other languages, TypeScript feels like a mix of JavaScript’s simplicity and C++’s structure. It reminds me of when I first learned C++, where you have to think carefully about data types and memory management. However, unlike C++, TypeScript doesn’t require as much manual work, making it easier to use.
+Compared to other languages, TypeScript feels like a mix of JavaScript’s simplicity and C++’s structure. It reminds me of when I first learned C++, where you have to think carefully about data types and memory management. However, unlike C++, TypeScript doesn’t require as much manual work, making it easier to use. 
 
 ```
 // JavaScript
@@ -34,6 +34,8 @@ name = 6; // No error, dynamic typing
 let name: string = "John Doe"; // Type annotation
 name = 6; // Error: Type 'number' is not assignable to type 'string'
 ```
+
+In JavaScript, the variable `name` can be reassigned from a string to a number without any errors due to its dynamic typing. In TypeScript, the type annotation `:string` enforces that `name` must remain a string, causing an error when trying to assign a number to it, therefore preventing type-related mistakes during development.
 
 ## From A Software Engineering Perspective
 
