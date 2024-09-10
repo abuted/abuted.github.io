@@ -57,6 +57,18 @@
   ],
   "volunteer": [
     {
+      "organization": "Timpuyog",
+      "website": "",
+      "position": "Historian",
+      "startDate": "2023-09-01",
+      "endDate": "2024-05-01",
+      "summary": "To promote the Ilokano language and Philippine culture in the community",
+      "highlights": [
+        "Keep a library of videos, pictures, and other documentary of events that take place.",
+        "Be responsible for uploading photos and videos taken at any and all Timpuyog events and activities.",
+      ]
+    },
+    {
       "organization": "Key Club",
       "website": "",
       "position": "Club Member",
