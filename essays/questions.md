@@ -23,7 +23,7 @@ In software engineering, asking clear and well thought out questions is really i
 
 **Link:** [Example of smart question](https://stackoverflow.com/questions/44508059/c-map-with-custom-comparator-not-inserting-all-elements)
 
-## The Not Smart Question
+## The Not-So-Smart Question
 
 **Title: "Python code doesn't run, I don't know what to do to fix it."**
 
