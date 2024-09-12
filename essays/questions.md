@@ -33,15 +33,15 @@ In software engineering, asking clear and well thought out questions is really i
 
 ## Why Smart Questions Work Better
 
-##### Being Clear and Detailed
+#### Being Clear and Detailed
 
 In the first example, the developer followed Raymond’s advice by being specific. They explained their problem in a clear way, shared the exact part of the code causing the issue, and showed they had done some research and testing. This made it easy for others to understand the problem and give helpful answers. In the second example, the developer didn’t give enough information. They didn’t explain what the code was supposed to do or what went wrong. As a result, the community couldn’t help as much and the developer might have still been confused. Without enough detail, the answers weren’t useful or helpful for the developer.
 
-##### Respecting Others’ Time
+#### Respecting Others’ Time
 
 Raymond says that asking smart questions shows respect for the time of others who are trying to help. The developer in the first example did this by providing all the necessary information along with his question. They didn’t waste anyone’s time by making people guess the problem. The second developer, on the other hand, didn’t respect the community’s time. By pasting a chunk of code without explaining the issue, they expected others to figure it out on their own, which made people less willing to help.
 
-##### Problem-Solving Mindset
+#### Problem-Solving Mindset
 
 The first developer approached the question with a problem-solving attitude. Instead of asking someone to fix the problem for them, they asked for help understanding why their solution wasn’t working. This encouraged more thoughtful answers that helped them learn and improve their code. The second developer just wanted someone to fix their code without putting in effort to understand the problem. This attitude made it harder for others to engage and offer useful help.
 
