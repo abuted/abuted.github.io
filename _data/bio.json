@@ -51,9 +51,9 @@
       "highlights": [
         "Communicate with new employees in order to train them.",
         "Create drinks for customers like coffee and shave ice.",
-        "Conduct coffee tours for tourists that come in.",
+        "Conduct coffee tours for tourists that come in."
       ]
-    },
+    }
   ],
   "volunteer": [
     {
@@ -65,7 +65,7 @@
       "summary": "To promote the Ilokano language and Philippine culture in the community",
       "highlights": [
         "Keep a library of videos, pictures, and other documentary of events that take place.",
-        "Be responsible for uploading photos and videos taken at any and all Timpuyog events and activities.",
+        "Be responsible for uploading photos and videos taken at any and all Timpuyog events and activities."
       ]
     },
     {
@@ -81,7 +81,7 @@
     },
     {
       "organization": "St. Michael's Church",
-      "website": "https://stsmichaelpeterpaul.org/",
+      "website": "",
       "position": "Cleaner",
       "startDate": "2021-05-01",
       "endDate": "2021-07-01",
