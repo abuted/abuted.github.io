@@ -11,7 +11,7 @@ labels:
   - Coding Standards
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/ts_logo.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/code.webp">
 
 ## Introduction
 
