@@ -45,7 +45,65 @@ Another advantage about using UI frameworks is that it helps with maintainabilit
 
 The navigation system is an important part of any website, helping users easily find different sections of the site. For example, this website by Hawaii’s Finest uses a UI framework like Bootstrap 5, as shown in the code snippet below:
 
-
+```
+<nav class="header-nav-list"> 
+    <div class="header-nav-item header-nav-item--collection header-nav-item--active header-nav-item--homepage">
+      <a href="/" data-animation-role="header-element" aria-current="page">Home</a>
+    </div>
+    <div class="header-nav-item header-nav-item--external">
+      <a href="https://shop.hifinest.com" data-animation-role="header-element">Shop</a>
+    </div>
+    <div class="header-nav-item header-nav-item--folder">
+      <a class="header-nav-folder-title" href="/thecollective" tabindex="-1" data-animation-role="header-element">The Collective</a>
+      <div class="header-nav-folder-content">
+        <div class="header-nav-folder-item header-nav-folder-item--external">
+          <a href="https://thecollectivebyhifi.com">The Collective by HIFI</a>
+        </div>
+        <div class="header-nav-folder-item header-nav-folder-item--external">
+          <a href="https://alohashirtco.com">Aloha Shirt Co.</a>
+        </div>
+        <div class="header-nav-folder-item header-nav-folder-item--external">
+          <a href="https://www.papalehawaii.com">Papale Hawaii</a>
+        </div>
+        <div class="header-nav-folder-item header-nav-folder-item--external">
+          <a href="https://mauhawaii.com">Mau Hawaii</a>
+        </div>
+        <div class="header-nav-folder-item header-nav-folder-item--external">
+          <a href="https://hifinestcustoms.com/">HIFI Customs</a>
+        </div>
+        <div class="header-nav-folder-item">
+          <a href="/watch"><span class="header-nav-folder-item-content">HIFI TV</span></a>
+        </div>
+        <div class="header-nav-folder-item header-nav-folder-item--external">
+          <a href="https://hifinestmedia.com/" target="_blank">HIFI Media</a>
+        </div>
+      </div>
+    </div>
+    <div class="header-nav-item header-nav-item--collection">
+      <a href="/events" data-animation-role="header-element">Events</a>
+    </div>
+    <div class="header-nav-item header-nav-item--folder">
+      <a class="header-nav-folder-title" href="/about-us" tabindex="-1" data-animation-role="header-element">Info</a>
+      <div class="header-nav-folder-content">
+        <div class="header-nav-folder-item">
+          <a href="/about"><span class="header-nav-folder-item-content">About Us</span></a>
+        </div>
+        <div class="header-nav-folder-item">
+          <a href="/faq"><span class="header-nav-folder-item-content">FAQ</span></a>
+        </div>
+        <div class="header-nav-folder-item">
+          <a href="/contact"><span class="header-nav-folder-item-content">Contact Us</span></a>
+        </div>
+        <div class="header-nav-folder-item">
+          <a href="/location"><span class="header-nav-folder-item-content">Location</span></a>
+        </div>
+        <div class="header-nav-folder-item header-nav-folder-item--external">
+          <a href="https://www.hrsymphony.com/hrs/careers/hifinest">Careers</a>
+        </div>
+      </div>
+    </div>
+</nav>
+```
 
 This organized navigation menu shows how Bootstrap 5 makes it easier to use and access the site. It includes links to important sections like "Home," "Shop," and "Events," as well as dropdown menus for categories like "The Collective" and "Info." Each menu item uses Bootstrap's styles and utility classes, making sure it looks good and works well on different devices. This easy navigation helps users have a better experience and encourages them to explore the site more, which can lead to more engagement and sales.
 
