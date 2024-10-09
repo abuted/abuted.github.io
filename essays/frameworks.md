@@ -105,6 +105,8 @@ The navigation system is an important part of any website, helping users easily 
 </nav>
 ```
 
+![Hawaii's Finest](src="../img/finest.png"
+
 This organized navigation menu shows how Bootstrap 5 makes it easier to use and access the site. It includes links to important sections like "Home," "Shop," and "Events," as well as dropdown menus for categories like "The Collective" and "Info." Each menu item uses Bootstrap's styles and utility classes, making sure it looks good and works well on different devices. This easy navigation helps users have a better experience and encourages them to explore the site more, which can lead to more engagement and sales.
 
 ## Looking Ahead
