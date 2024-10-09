@@ -8,7 +8,7 @@ published: true
 labels:
   - Software Engineering
   - UI Frameworks
-  - Bootstrap
+  - Bootstrap 5
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/se_logo.png">
