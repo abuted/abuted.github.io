@@ -15,7 +15,7 @@ labels:
 
 ## Introduction
 
-UI frameworks like Bootstrap 5 make it easier and faster for developers to build websites. Learning them can be quite hard if you're used to writing your own HTML and CSS. But, using UI frameworks like Bootstrap 5 saves a lot of time because you don't have to create everything from scratch. Without a framework, designing a website will take much more time, and you will have problems like the site not appearing good on different devices. UI frameworks save you from this problem by giving you resources so your website can look good on different devices without writing too much extra code.
+UI frameworks like Bootstrap 5 make it easier for developers to build websites. Learning them can be quite hard if you're used to writing your own HTML and CSS. But, using them saves a lot of time because you don't have to create everything from scratch. Without a framework, designing a website will take much more time, and you will have problems like the site not appearing good on different devices. UI frameworks save you from this problem by giving you resources so your website can look good on different devices without writing too much extra code.
 
 ## My Experience with Bootstrap 5
 
@@ -105,7 +105,7 @@ The navigation system is an important part of any website, helping users easily 
 </nav>
 ```
 
-<img width="500px" class="rounded float-start pe-4" src="../img/finest.png">
+<img width="1000px" class="rounded float-start pe-4" src="../img/finest.png">
 
 This organized navigation menu shows how Bootstrap 5 makes it easier to use and access the site. It includes links to important sections like "Home," "Shop," and "Events," as well as dropdown menus for categories like "The Collective" and "Info." Each menu item uses Bootstrap's styles and utility classes, making sure it looks good and works well on different devices. This easy navigation helps users have a better experience and encourages them to explore the site more, which can lead to more engagement and sales.
 
