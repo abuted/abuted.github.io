@@ -6,6 +6,7 @@ title: "Making Web Design Easy"
 date: 2024-10-08
 published: true
 labels:
+  - Software Engineering
   - Web Design
   - Bootstrap 5
 ---
