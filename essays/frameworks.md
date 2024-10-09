@@ -11,8 +11,6 @@ labels:
   - Bootstrap 5
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/ts_logo.png">
-
 ## Introduction
 
 UI frameworks like Bootstrap 5 make it easier and faster for developers to build websites. Learning them can be quite hard if you're used to writing your own HTML and CSS. But, using UI frameworks like Bootstrap 5 saves a lot of time because you don't have to create everything from scratch. Without a framework, designing a website will take much more time, and you will have problems like the site not appearing good on different devices. UI frameworks save you from this problem by giving you resources so your website can look good on different devices without writing too much extra code.
