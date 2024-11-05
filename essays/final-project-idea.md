@@ -19,9 +19,6 @@ Students often struggle to keep track of their courses, syllabuses, and assignme
 **The Solution**  
 We propose a webpage that combines all relevant academic information for a student. This personalized webpage will display all registered classes, provide easy access to syllabuses, and feature an integrated calendar highlighting important dates such as homework and project deadlines. A secure login system will ensure that each student sees only their information.
 
-## Names of the Proposers
--  Alessandra Gudoy, Alexis Karl Buted
-
 ## Mockup Page Ideas
 - **Dashboard**: Displays a summary of current classes, quick links to syllabuses, and a snapshot of upcoming deadlines.
 - **Classes Tab**: Lists all registered courses with links to detailed course information, including instructor contact details and office hours.
