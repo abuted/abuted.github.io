@@ -8,7 +8,7 @@ labels:
   - Nextjs
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/code.webp">
+<img width="200px" class="rounded float-start pe-4" src="../img/schedule.webp">
 
 ## Overview
 **The Problem**  
@@ -24,7 +24,7 @@ We propose a webpage that combines all relevant academic information for a stude
 - **Dashboard**: Displays a summary of current classes, quick links to syllabuses, and a snapshot of upcoming deadlines.
 - **Classes Tab**: Lists all registered courses with links to detailed course information, including instructor contact details and office hours.
 - **Syllabuses Tab**: Provides direct access to downloadable or viewable syllabuses for each course.
-- **Calendar Tab**: Features a visually intuitive calendar that marks due dates for assignments, tests, and projects. It includes color-coded categories for different types of tasks.
+- **Calendar Tab**: Features a visually intuitive calendar that marks due dates for assignments, tests, and projects.
 
 ## Use Case Ideas
 - **A student checks their upcoming assignments**: Logging into the webpage, a student can quickly navigate to the Calendar tab to view all due dates.
