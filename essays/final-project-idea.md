@@ -10,6 +10,8 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/schedule.webp">
 
+# Course Compass
+
 ## Overview
 **The Problem**  
 Students often struggle to keep track of their courses, syllabuses, and assignment deadlines across multiple platforms or formats. This can lead to missed deadlines and confusion about course materials.
