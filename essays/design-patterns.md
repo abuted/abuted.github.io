@@ -10,7 +10,7 @@ labels:
   - Design Patterns
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/designpatt.png">
+<img width="250px" class="rounded float-start pe-4" src="../img/designpatt.png">
 
 ## Introduction
 
