@@ -24,7 +24,7 @@ One of the most important things I learned about design patterns is the way they
 
 ## Useful Design Patterns: Creational, Structural, and Behavioral
 
-One example of a creational pattern is the **Factory Method. It is great when you need to create objects, but you don't want to hardcode everything in different parts of your program. For example, if I need to set up different types of users in some system, I can keep the user creation logic in one place. That way, I don't have to go back and change multiple sections of the code if I happen to need to add a new user type later.
+One example of a creational pattern is the **Factory Method**. It is great when you need to create objects, but you don't want to hardcode everything in different parts of your program. For example, if I need to set up different types of users in some system, I can keep the user creation logic in one place. That way, I don't have to go back and change multiple sections of the code if I happen to need to add a new user type later.
 
 For structural patterns, there is the **Adapter**. Sometimes, two parts of my code just don’t fit together, like when I’m using an external library or API that works differently than my code. The Adapter acts like a bridge or translator between the two, letting them work together without me having to rewrite everything.
 
