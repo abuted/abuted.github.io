@@ -22,7 +22,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "HTML/CSS" ]
     },
     {
       "name": "Toolsets/OS",
@@ -43,7 +43,7 @@
   "work": [
     {
       "company": "Island X Hawaii",
-      "position": "Barista/Supervisor",
+      "position": "Manager",
       "website": "https://www.islandxhawaii.com/",
       "startDate": "2022-06-25",
       "endDate": "Present",
