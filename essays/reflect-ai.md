@@ -42,6 +42,18 @@ In the final project, I used GitHub Co-Pilot for generating code and ChatGPT for
 
 When learning about databases like PostgreSQL, I used ChatGPT to understand its basics and installation process. When following the tutorial from the experience that was provided, the installation did not work, so I turned to ChatGPT for help. For example, I asked, “How do I install PostgreSQL on my system?” and I received a step-by-step guide. These interactions helped me set up and explore PostgreSQL, providing a good understanding for future projects.
 
+### Answering a Question in Class or in Discord
+
+In a Discord discussion about PostgreSQL, I noticed a peer’s question about how to install it. To better understand the process, I did some further research on my own and then asked ChatGPT, “How do I install PostgreSQL on my system?” The AI provided a clear, step-by-step guide, which helped me get started with PostgreSQL and how to use it.
+
+### Asking or Answering a Smart-Question
+
+I asked ChatGPT, “What’s the difference between const and let in JavaScript?” to better understand their uses and behavior. The AI provided a clear explanation of how const is used for variables that shouldn’t be reassigned, while let is for variables that can be reassigned. Asking these questions to ChatGPT helped me understand concepts more clearly.
+
+### Coding Example
+
+I asked ChatGPT to show me an example of how to use Bootstrap icons in HTML. The AI provided a clear example, showing me how to include the Bootstrap Icons library and use specific icons within an HTML file. I used this example to add icons in my project, adjusting it to fit the design of my project.
+
 ### Writing Code
 
 GitHub Co-Pilot made it quick and easy to write boilerplate code. For example, when setting up authentication routes or importing certain tools for the final project, Co-Pilot suggested snippets that saved time while making sure the code was accurate.
