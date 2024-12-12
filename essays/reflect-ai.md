@@ -54,6 +54,10 @@ I asked ChatGPT, “What’s the difference between const and let in JavaScript?
 
 I asked ChatGPT to show me an example of how to use Bootstrap icons in HTML. The AI provided a clear example, showing me how to include the Bootstrap Icons library and use specific icons within an HTML file. I used this example to add icons in my project, adjusting it to fit the design of my project.
 
+## Explaining Code
+
+When I encountered an ESLint error about having too many characters on one line, I used ChatGPT to help me understand why it was happening. I asked, “Why am I getting an ESLint error for too many characters on one line?” It explained that this error occurs because long lines of code can reduce readability, and it suggested breaking the line into smaller parts. This helped me correct the issue and improve the overall readability of my code.
+
 ### Writing Code
 
 GitHub Co-Pilot made it quick and easy to write boilerplate code. For example, when setting up authentication routes or importing certain tools for the final project, Co-Pilot suggested snippets that saved time while making sure the code was accurate.
