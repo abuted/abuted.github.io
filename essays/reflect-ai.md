@@ -10,7 +10,7 @@ labels:
   - Artificial Intelligence
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/chatgpt.webp">
+<img width="250px" class="rounded float-start pe-4" src="../img/chatgpt.webp">
 
 ## I. Introduction
 
