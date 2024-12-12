@@ -4,7 +4,7 @@ type: essay
 title: "The Importance of Coding Standards"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-24
-published: true
+published: false
 labels:
   - TypeScript
   - ESLint
