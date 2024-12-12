@@ -32,7 +32,7 @@ During in-class WODs, I occasionally used ChatGPT to help debug my code and figu
 
 ### Essays
 
-For essay assignments, I used ChatGPT for brainstorming and finding ideas. For example, I asked, “Provide an outline for this essay.” The suggestions helped structure my thoughts and made the concept more clear. However, I made sure the final content was original and matched my understanding.
+For essay assignments, I used ChatGPT for brainstorming and finding ideas. For example, I asked, “Provide an outline for this essay about why coding standards are important.” The suggestions helped structure my thoughts and made the concept more clear. However, I made sure the final content was original and matched my understanding.
 
 ### Final Project
 
