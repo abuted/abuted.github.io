@@ -62,7 +62,7 @@ Sometimes I like to used ChatGPT to show me interview questions, like “What ar
 
 The integration of AI improved my learning experience. It allowed for quicker understanding of new concepts, improved problem-solving abilities, and provided immediate feedback. However, my reliance on AI sometimes led to a shallow understanding of concepts, highlighting the importance of balancing AI with personal effort.
 
- ## IV. Practical Applications 
+## IV. Practical Applications
  
 Outside of coursework, many people have used AI tools to help with personal coding projects and hackathons. For example, at a coding event, some may use GitHub Co-Pilot to quickly create basic code to set up a project. This would save time and allowed them to focus on the unique parts of their projects. Others used ChatGPT to help fix problems when they didn’t know how to solve them. Getting quick advice from AI helped them stay on track and meet tight deadlines. These experiences show how AI tools can be useful in real-life situations, helping with both personal projects and work.
 
