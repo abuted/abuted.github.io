@@ -64,11 +64,11 @@ The integration of AI improved my learning experience. It allowed for quicker un
 
 ## IV. Practical Applications
 
-Outside of coursework, many people have used AI tools to help with personal coding projects and hackathons. For example, at a coding event, some may use GitHub Co-Pilot to quickly create basic code to set up a project. This would save time and allowed them to focus on the unique parts of their projects. Others used ChatGPT to help fix problems when they didn’t know how to solve them. Getting quick advice from AI helped them stay on track and meet tight deadlines. These experiences show how AI tools can be useful in real-life situations, helping with both personal projects and work.
+Outside of coursework, many people have used AI tools to help with personal coding projects and hackathons. For example, at a coding event, some may use GitHub Co-Pilot to quickly create basic code to set up a project. This would save time and allowed them to focus on the important parts of their projects. Others used ChatGPT to help fix problems when they didn’t know how to solve them. Getting quick advice from AI helped them stay on track and meet deadlines. These experiences show how AI tools can be useful in real-life situations, helping with both personal projects and work.
 
 ## V. Challenges and Opportunities 
 
-One challenge is that some of the AI-generated responses were incorrect or common, requiring you to double-check the work. Additionally, AI tools sometimes lack context or understanding of specific project requirements, which can lead to suggestions that don’t match the task. However, there are opportunities to incorporate AI into coursework, such as coding tutorials, debugging support, or using AI to provide instant feedback on coding practices.
+One challenge is that some of the AI-generated responses were incorrect or common, requiring you to double-check the work. Additionally, AI tools sometimes lack context or understanding of specific project requirements, which can lead to suggestions that don’t match the task. However, there are opportunities to add AI into coursework, such as coding tutorials, debugging support, or using AI to provide instant feedback on coding practices.
 
 ## VI. Comparative Analysis 
 
