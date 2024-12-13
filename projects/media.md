@@ -4,7 +4,7 @@ type: project
 image: img/media_logo.png
 title: "Social Media Networks"
 date: 2024-08-04
-published: true
+published: false
 labels:
   - Python
 summary: "This program is designed for analyzing and visualizing social media data, focusing on users, their posts, and interactions."
