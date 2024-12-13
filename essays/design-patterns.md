@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "The Blueprint for Writing Better Code"
 # All dates must be YYYY-MM-DD format!
-date: 2024-12-4
+date: 2024-12-04
 published: true
 labels:
   - Software Engineer
