@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/mars_logo.png
+image: img/corponector-logo.png
 title: "Corponector"
 date: 2024-12-13
 published: true
