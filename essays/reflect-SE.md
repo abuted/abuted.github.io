@@ -12,7 +12,7 @@ labels:
   - Development Environments
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/se-logo.jpg">
+<img width="250px" class="rounded float-start pe-4" src="../img/se-logo.jpg">
 
 ## Introduction
 Software engineering is about using methods and practices to build good-quality software. While this class focused a lot on making web applications, there were many lessons and concepts I learned throughout this class. Three important topics that stood out to me were coding standards, user interface frameworks, and development environments. These ideas are useful for many areas in software engineering, not just web development. They help make sure that software is reliable, efficient, and easy to maintain. The knowledge I have gained from these topics can be applied to solve difficult problems in my future career.
