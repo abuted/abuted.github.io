@@ -18,59 +18,59 @@ Artificial Intelligence (AI) has become an important part of modern education, c
 
 ## II. Personal Experience with AI
 
-### Experience WODs
+#### Experience WODs
 
 I used ChatGPT to help me understand TypeScript better. For example, I asked, “What are the key differences between TypeScript and JavaScript?” ChatGPT explained how TypeScript adds static typing and interfaces, which gave me a clearer understanding of its purpose. I also used it to learn about TypeScript setup by asking, “How do I configure a TypeScript project?” The step-by-step guide on setting up tsconfig.json and compiling code helped me start using TypeScript effectively in my projects.
 
-### In-class Practice WODs
+#### In-class Practice WODs
 
 For practice WODs, I used ChatGPT to help me write and understand HTML and CSS for UI design using Bootstrap. For instance, I asked, “Can you help me create a responsive navigation bar using Bootstrap 5?” ChatGPT provided a clear example with code snippets. I used this as a guide to create the wanted design, experimenting with classes and styles to match the assignment requirements. This process helped me understand Bootstrap utilities and how to apply them for responsive interfaces.
 
-### In-class WODs
+#### In-class WODs
 
 During in-class WODs, I occasionally used ChatGPT to help debug my code and figure out what was not working. For example, when a Bootstrap grid layout didn’t align, I asked ChatGPT, “Why is my Bootstrap column not aligning properly?” It provided me possible issues, such as missing classes or incorrect container usage. This allowed me to quickly identify and fix the problem while still following the time limit of the WOD.
 
-### Essays
+#### Essays
 
 For essay assignments, I used ChatGPT for brainstorming and finding ideas. For example, I asked, “Provide an outline for this essay about why coding standards are important.” The suggestions helped structure my thoughts and made the concept more clear. However, I made sure the final content was original and matched my understanding.
 
-### Final Project
+#### Final Project
 
 In the final project, I used GitHub Co-Pilot for generating code and ChatGPT for debugging while creating an interface for the landing page. For example, GitHub Co-Pilot generated code snippets for setting up a layout using HTML and CSS. When certain elements didn’t display as I wanted it to, I used ChatGPT to debug, asking questions like, “Why is my CSS flexbox layout not centering properly?” ChatGPT helped find issues, such as missing alignment properties, and suggested fixes, which improved the interface’s design.
 
-### Learning a Concept / Tutorial
+#### Learning a Concept / Tutorial
 
 When learning about databases like PostgreSQL, I used ChatGPT to understand its basics and installation process. When following the tutorial from the experience that was provided, the installation did not work, so I turned to ChatGPT for help. For example, I asked, “How do I install PostgreSQL on my system?” and I received a step-by-step guide. These interactions helped me set up and explore PostgreSQL, providing a good understanding for future projects.
 
-### Answering a Question in Class or in Discord
+#### Answering a Question in Class or in Discord
 
 In a Discord discussion about PostgreSQL, I noticed a peer’s question about how to install it. To better understand the process, I did some further research on my own and then asked ChatGPT, “How do I install PostgreSQL on my system?” The AI provided a clear, step-by-step guide, which helped me get started with PostgreSQL and how to use it.
 
-### Asking or Answering a Smart-Question
+#### Asking or Answering a Smart-Question
 
 I asked ChatGPT, “What’s the difference between const and let in JavaScript?” to better understand their uses and behavior. The AI provided a clear explanation of how const is used for variables that shouldn’t be reassigned, while let is for variables that can be reassigned. Asking these questions to ChatGPT helped me understand concepts more clearly.
 
-### Coding Example
+#### Coding Example
 
 I asked ChatGPT to show me an example of how to use Bootstrap icons in HTML. The AI provided a clear example, showing me how to include the Bootstrap Icons library and use specific icons within an HTML file. I used this example to add icons in my project, adjusting it to fit the design of my project.
 
-### Explaining Code
+#### Explaining Code
 
 When I encountered an ESLint error about having too many characters on one line, I used ChatGPT to help me understand why it was happening. I asked, “Why am I getting an ESLint error for too many characters on one line?” It explained that this error occurs because long lines of code can reduce readability, and it suggested breaking the line into smaller parts. This helped me correct the issue and improve the overall readability of my code.
 
-### Writing Code
+#### Writing Code
 
 GitHub Co-Pilot made it quick and easy to write boilerplate code. For example, when setting up authentication routes or importing certain tools for the final project, Co-Pilot suggested snippets that saved time while making sure the code was accurate.
 
-### Documenting Code
+#### Documenting Code
 
 For documenting code, I found that I didn't really need AI for this task. I was able to create clear and organized documentation based on my own understanding of the project, without relying too much on AI.
 
-### Quality Assurance 
+#### Quality Assurance 
 
 When debugging, I asked ChatGPT to, “Fix this ESLint error.” It explained the error and showed me solutions, making the debugging process easier. This saved time and improved the quality of my code.
 
-### Other Uses in ICS 314 
+#### Other Uses in ICS 314 
 
 Sometimes I like to used ChatGPT to show me interview questions, like “What are common software engineering interview questions?” Practicing these questions helped me prepare for any internships or real-world scenarios I might encounter.
 
