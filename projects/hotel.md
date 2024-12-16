@@ -11,14 +11,14 @@ labels:
 summary: "This program is a hotel management system that collects rooms and customer information."
 ---
 
-<img class="img-fluid" src="../img/hotel-code.png">
-
 This program is a hotel management system designed to handle tasks like booking rooms, checking in and out customers, and keeping track of room availability. It allows hotel staff to add and manage room information, associate customers with rooms, and calculate payments based on the length of stay. 
 The system can also search for available rooms, find customer details, and generate reports on current guests. Overall, it streamlines the management of hotel operations, making it easier to organize bookings and ensure efficient customer service.
 
 ## What is the Hotel Management System?
 
 This Hotel management System program is designed to manage a hotel's room bookings and customer information. It allows hotel staff to add rooms, check in customers, and check out customers. The program tracks available rooms and can search for specific rooms or customers. It provides a summary report of all customers currently checked in. The system handles room management, including adding and deleting rooms. It also manages customer details during check-in and check-out, calculating payments based on room rates and the length of stay. Users interact with the system through a menu-driven interface. The system helps streamline hotel operations by keeping track of both room and customer information.
+
+<img class="img-fluid" src="../img/hotel-code.png">
 
 ## What was my role?
 
