@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/hotel_logo.png
 title: "Hotel Management System"
-date: 2023-12-01
+date: 2023
 published: true
 labels:
   - C++
