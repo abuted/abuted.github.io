@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/mars_logo.png
 title: "MARS"
-date: 2021-10-23
+date: 2021
 published: true
 labels:
   - Python
