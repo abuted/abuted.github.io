@@ -13,7 +13,7 @@ labels:
 summary: "Corponector provides a new way for local and non-local companies who want to recruit students to make their opportunities known to students."
 ---
 
-<img class="img-fluid" src="../img/mars_bg.png">
+<img class="img-fluid" src="../img/corponector-home.png">
 
 
 ## What is Corponector?
