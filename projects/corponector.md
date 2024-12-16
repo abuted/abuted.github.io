@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/corponector-logo.png
 title: "Corponector"
-date: 2024-12-13
+date: 2024
 published: true
 labels:
   - HTML
