@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/mars_logo.png
+image: img/mars_logo.jpg
 title: "MARS"
 date: 2021
 published: true
