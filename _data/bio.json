@@ -17,7 +17,7 @@
   "interests": [
     { "name": "Software Engineering" },
     { "name": "Cybersecurity" },
-    { "name": "Artificial Intelligence" }
+    { "name": "Videogames" }
   ],
   "skills": [
     {
@@ -66,39 +66,6 @@
       "highlights": [
         "Keep a library of videos, pictures, and other documentary of events that take place.",
         "Be responsible for uploading photos and videos taken at any and all Timpuyog events and activities."
-      ]
-    },
-    {
-      "organization": "Key Club",
-      "website": "",
-      "position": "Club Member",
-      "startDate": "2020-09-01",
-      "endDate": "2022-05-01",
-      "summary": "Community service projects",
-      "highlights": [
-        "Sign making/waving and handled donations."
-      ]
-    },
-    {
-      "organization": "St. Michael's Church",
-      "website": "",
-      "position": "Cleaner",
-      "startDate": "2021-05-01",
-      "endDate": "2021-07-01",
-      "summary": "Make sure the community is clean and safe.",
-      "highlights": [
-        "Maintain the look of the church so that it is presentable."
-      ]
-    },
-    {
-      "organization": "Hui Malama",
-      "website": "",
-      "position": "Club Member",
-      "startDate": "2019-09-01",
-      "endDate": "2021-05-01",
-      "summary": "Made connections while helping our envrionment.",
-      "highlights": [
-        "Planted plants and removed invasive species on campus."
       ]
     }
   ],
